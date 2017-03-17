@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+    host: 'https://lit-harbor-99843.herokuapp.com'
 };
